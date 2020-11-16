@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [[ -d ~/mawlhax.config ]]; then
+source ~/mawlhax.config/vars.sh
+$dir/$lshell
+else
+echo Could not find mawlhax.config
+echo Try reinstalling
+echo Maybe the dir variable is wrong
+echo Or this file is wrong
+echo mawl you idot
+fi
