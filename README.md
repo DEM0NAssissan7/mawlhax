@@ -1,5 +1,6 @@
 # mawlhax
 alt f4 for hax
 
-Literally chmod +x install.sh and ur done
-EEEEEEEEEEEEEEe
+`chmod +x install.sh`
+`./install.sh`
+`good luck`
